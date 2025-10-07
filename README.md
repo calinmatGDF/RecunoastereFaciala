@@ -1,4 +1,4 @@
-Cum se foloseste:
+How to use:
 
 1.Folositi functia de captura pentru a face rost de pozele care vor fi folosite pentru SVM.
 2.Folosind butonul de generare vectori de antrenament, selectati folderul creat pentru a construi vectorii de antrenament.
